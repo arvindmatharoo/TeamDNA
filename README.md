@@ -37,10 +37,10 @@ venv\Scripts\activate
 ```bash
 source venv/bin/activate
 ```
-3. **Install dependencies**
-4. ```bash
-   pip install streamlit pandas matplotlib seaborn networkx requests
-   ```
+## Install dependencies
+```bash
+pip install streamlit pandas matplotlib seaborn networkx requests
+```
 # Usage 
 ## Run the app 
 ```bash
